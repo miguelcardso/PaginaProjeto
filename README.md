@@ -3,6 +3,6 @@
 
 
 ### PaginaProjeto
-Realizado uma pagina com envio de formulario em JS,HTML,PHP. 🧑‍💻
+Realizado uma pagina com envio de formulario em JS,HTML,CSS,PHP. 🧑‍💻
 
 
