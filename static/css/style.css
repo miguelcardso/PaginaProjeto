@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Telugu:wght@100&display=swap');
+
+body {
+    background-image: url('/static/img/Fundo.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+}
+
+#container {
+    height:400px;
+    width:500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 140px;
+    margin-top: 82px;
+    box-shadow: 0px 0px 6px 0px #000000;
+
+
+}
+
+#botton-login {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    align-items: center;
+    background-color: #98c0db;
+    color: #2b4658;
+    margin-top:51px;
+
+}
+
+.title {
+    font-family: 'Anek Telugu', sans-serif;
+    padding-top: 19px;
+    color: white;
+
+}
+
+.login-card{
+    width: 315px;
+    height: 315px;
+
+}
+
+#register{
+    padding-top:3px
+    
+}
+
+label{
+    padding-top:7px;
+}
+
+#username {
+    width: 400;
+}
+
+
+.navbar{
+    color: white;
+}
