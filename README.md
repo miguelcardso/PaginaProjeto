@@ -3,7 +3,7 @@
 
 
 ### PaginaProjeto
-Realizado uma pagina com envio de formulario em ⤵️
+Desenvolvimento de uma pagina com envio de formulario em ⤵️
 
 - JS ✅
 - HTML ✅
